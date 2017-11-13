@@ -6,3 +6,7 @@ Defining the clinically relevant elements of the pangenome of S aureus and other
 Differentiation between screening (nose swabs) and lesions
 Building a rapid pipeline to differentiate between phage, plasmid and low complexity regions in these differential sites.  
 Extending that to other bacterial species
+
+## Approaches
+
+![My image](https://github.com/NCBI-Hackathons/Pathogenic_Pangenomes/blob/master/Images/approaches.png)
